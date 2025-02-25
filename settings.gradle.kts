@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KotlinInit"
+rootProject.name = "discoverUi"
 include(":app")

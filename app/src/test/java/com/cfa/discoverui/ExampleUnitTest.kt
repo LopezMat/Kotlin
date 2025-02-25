@@ -1,4 +1,4 @@
-package com.example.kotlininit
+package com.cfa.discoverui
 
 import org.junit.Test
 
